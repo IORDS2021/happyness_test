@@ -1,4 +1,4 @@
-[Tests](https://github.com/IORDS2021/happyness_test/actions/workflows/pytest.yml/badge.svg)
+![pytest](https://github.com/IORDS2021/happyness_test/actions/workflows/pytest.yml/badge.svg)
 
 # Country Happiness Prediction Project
 
